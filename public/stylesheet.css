@@ -1,0 +1,13 @@
+h1.title{
+	text-align: center;
+	color: darkgreen;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+hr.bar{
+	color: darkgreen;
+}
+
+body{
+	background-color: lightgreen;
+}
